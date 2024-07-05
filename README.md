@@ -1,6 +1,8 @@
 # Medical-Chatbot-Llama-Pinecone
 
 # End-to-end-Medical-Chatbot-using-Llama2
+![Screenshot 2024-07-03 143631](https://github.com/Shankar297/Medical-Chatbot-Llama-Pinecone/assets/76767335/95cb2bc3-bc29-4172-b78c-1ef06e7c7859)
+![Screenshot 2024-07-03 143537](https://github.com/Shankar297/Medical-Chatbot-Llama-Pinecone/assets/76767335/d7b194a5-4fca-4051-93a6-72b90a00295f)
 
 # How to run?
 ### STEPS:
